@@ -1,6 +1,6 @@
 # Projekt Flappy Bird
 
-10. KLasse
+10. Klasse
 
 ## Themen
 * Erstellen von Klassen
